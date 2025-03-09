@@ -1,4 +1,4 @@
-```markdown
+
 # 💰 MERN Finance Manager  
 *A Full-Stack Personal Finance Management System*
 
@@ -143,5 +143,3 @@ Distributed under MIT License. See `LICENSE` for details.
 [![Deploy](https://img.shields.io/badge/Live_Demo-AWS_Amplify-FF9900?style=for-the-badge)](https://your-demo-link.com)
 ```
 
-*Replace image URLs and deployment links with your actual project assets*  
-*Add environment variables guide in wiki for production deployment*
