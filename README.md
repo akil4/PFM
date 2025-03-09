@@ -62,7 +62,7 @@ Add to `.env`:
 ```
 MONGO_URI=your_mongodb_uri
 JWT_SECRET=your_jwt_secret
-PORT=5000
+PORT=3000
 ```
 
 3. Setup frontend:  
@@ -110,13 +110,9 @@ mern-finance-manager/
 ```
 
 ## 📷 Key Features Preview  
-| Dashboard View | Transaction Form |
-|----------------|------------------|
-| ![Dashboard](https://i.postimg.cc/ZqG3kYv6/finance-dash-preview.png) | ![Form](https://i.postimg.cc/rsjBd8dS/transaction-form.png) |
-
-| Mobile View | Reports |
-|-------------|---------|
-| ![Mobile](https://i.postimg.cc/k4xJ6Gq0/mobile-view.png) | ![Reports](https://i.postimg.cc/bN8JtSFx/reports-view.png) |
+| Dashboard View |
+|----------------|
+| ![Dashboard](https://i.postimg.cc/ZqG3kYv6/finance-dash-preview.png) |
 
 ## 🤝 Contributing  
 1. Fork the project  
@@ -139,7 +135,4 @@ Distributed under MIT License. See `LICENSE` for details.
 
 ---
 
-**👨💻 Created by [Your Name]**  
-[![Deploy](https://img.shields.io/badge/Live_Demo-AWS_Amplify-FF9900?style=for-the-badge)](https://your-demo-link.com)
-```
-
+**👨💻 Created by [akil4]**  
